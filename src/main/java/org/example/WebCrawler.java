@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 public class WebCrawler {
     public static void main(String[] args) {
         // Starting URL for Web Crawler
-        String url = "https://www.apple.com/";
+        String url = "ADD URL HERE";
 
         // Start crawling from level 1 with the initial URL and an empty list of visited URLs
         crawl(1, url, new ArrayList<String>());
