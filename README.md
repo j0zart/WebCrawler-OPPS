@@ -16,7 +16,7 @@ The output of the web crawler consists of console prints providing information a
 
 How to Run code: (To run our code we will be using Github and IntelliJ IDE.)
 
-Copy code using URL from github to clone repository. (https://github.com/j0zart/WebCrawler-OPPS.git)
+Copy code using URL from github to clone repository.
 Launch IntelliJ IDEA and select “Get from VCS”
 Copy the copied URL into the “URL:” box and select preferred Directory.
 Click on Clone.
